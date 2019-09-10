@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bus"
+            android:icon="@drawable/busmenu"
+            android:title="@string/menu_bus" />
+        <item
+            android:id="@+id/metro"
+            android:icon="@drawable/metro"
+            android:title="@string/menu_metro" />
+        <item
+            android:id="@+id/bicis"
+            android:icon="@drawable/bicimenu"
+            android:title="@string/menu_bicis" />
+        <item
+            android:id="@+id/parking"
+            android:icon="@drawable/parkingmenu"
+            android:title="@string/menu_parking" />
+
+        <item
+            android:id="@+id/nav_trafico"
+            android:icon="@drawable/trafico"
+            android:title="@string/menu_trafico" />
+        <item
+            android:id="@+id/nav_taxis"
+            android:icon="@drawable/taximenu"
+            android:title="@string/menu_taxi" />
+    </group>
+
+    <item android:title="@string/menu_otros">
+        <menu>
+            <item
+                android:id="@+id/nav_wifi"
+                android:icon="@drawable/wifimenu"
+                android:title="@string/menu_wifi" />
+
+            <item
+                android:id="@+id/nav_contenedores"
+                android:icon="@drawable/contenedormenu"
+                android:title="@string/menu_contenedores" />
+            <item
+                android:id="@+id/nav_ciudades"
+                android:icon="@drawable/ciudad"
+                android:title="@string/menu_ciudades" />
+            <item
+                android:id="@+id/nav_acercade"
+                android:title="@string/menu_acercade" />
+        </menu>
+    </item>
+
+</menu>

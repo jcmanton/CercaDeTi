@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Next to you</string>
+    <string name="action_settings">About...</string>
+    <string name="menu_ciudades">Near Cities</string>
+    <string name="menu_parking">Parking</string>
+    <string name="nav_header_subtitle">http://www.valencia.es</string>
+    <string name="nav_header_title">API Valencia Council</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="que_hay_cerca">What\'s near?</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_bicis">Bikes</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_wifi">Wifi</string>
+    <string name="menu_trafico">Traffic</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="ver_ciudades">Show cities</string>
+    <string name="menu_otros">More</string>
+    <string name="menu_taxi">Taxi</string>
+    <string name="menu_movilidad">Mobility</string>
+    <string name="menu_contenedores">Dumpsters</string>
+    <string name="seleccion_contenedor">Choose one container</string>
+    <string-array name="array_titContenedor">
+        <item>Waste</item>
+        <item>Can</item>
+        <item>Box</item>
+        <item>Glass</item>
+        <item>Clothes</item>
+        <item>Cells</item>
+        <item>Oil</item>
+    </string-array>
+    <string name="menu_bus">Bus</string>
+    <string name="menu_metro">Subway</string>
+    <string name="bot_volver">Back</string>
+    <string name="sinInternet">No Internet connection</string>
+    <string name="sinGPS">No GPS signal</string>
+    <string name="instruc_funcionamiento">For correct use of the app an Internet conecction ist needed and GPS enabled. It only provides information of Valencia\'s urban area. If you are outside this area City Center\'s information will be displayed.</string>
+    <string name="comenzar_txt">Select an option from the menu to start ...</string>
+    <string name="app_desarrollada_">APP developed for the Diploma de Especialización de Aplicaciones Android (2019). The API of the Valencia City Council \'Cerca de Mi\' is used (http://gobiernoabierto.valencia.es/es/info-api/)</string>
+    <string name="requisitos_conexion">You can explore the data of a city point with a long-click on a map point. With another long-click you can use the GPS position</string>
+    <string name="titutlo_act_inicio">Next to you- Valencia\'s Council API.</string>
+    <string name="msg_GPS_OFF">GPS is disabled in your device. Would you like to enable it?</string>
+    <string name="msg_irGPS">Goto Settings Page To Enable GPS.</string>
+    <string name="bot_cancelar">Cancel</string>
+    <string name="msg_uso_Valencia">Out of Valencia. City center will be used as your position.</string>
+    <string name="prox_salidas">Next departures</string>
+    <string name="lineas">Lines</string>
+    <string name="bicis_disponibles">Available bikes:</string>
+    <string name="plazas_disponibles">"Available places: "</string>
+    <string name="parking_disponible">"Available places: "</string>
+    <string name="parada_taxi">"Taxi stop in: "</string>
+    <string name="wifi_a">"Wifi in: "</string>
+    <string name="contenedor_de">"Container of "</string>
+    <string name="sin_datos">No data for your location.</string>
+    <string name="no_preguntar_de_nuevo">(Don\'t ask again)</string>
+    <string name="menu_acercade">About...</string>
+</resources>

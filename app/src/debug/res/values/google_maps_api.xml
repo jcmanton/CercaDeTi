@@ -1,0 +1,32 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=SHA1%3Bexample.org.cercadeti.fragments
+
+    ***********************************************************
+    Cerca de ti
+    ***********************************************************
+    SHA1 trabajo
+    20:83:37:0C:2F:7C:02:00:D9:24:FF:5A:C3:AF:98:35:8E:1F:DC:F2
+
+    API Key
+    AIzaSyDIwPfAlDYzT8GKgfXM0SA6aMQMZE85zvI
+
+    SHA1 Casa
+    83:4D:B9:4E:AA:73:8F:99:83:5D:D1:7F:4B:6C:B9:0D:13:3C:AB:3C
+    API key
+    AIzaSyCeTh_3yiQGxSYU_ZHVVdkB_2vzTvJ7xn4
+
+
+    ***********************************************************
+    -->
+    <!--Casa  -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCeTh_3yiQGxSYU_ZHVVdkB_2vzTvJ7xn4</string>
+
+    <!--Trabajo
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDIwPfAlDYzT8GKgfXM0SA6aMQMZE85zvI</string>
+-->
+</resources>

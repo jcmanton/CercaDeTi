@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Cerca de ti</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+    <string name="nav_header_title">API Ayto. Valencia</string>
+    <string name="nav_header_subtitle">http://www.valencia.es</string>
+    <string name="nav_header_desc">Encabezado navegación</string>
+
+    <string name="menu_bicis">Bicis</string>
+    <string name="menu_parking">Parking</string>
+    <string name="menu_wifi">Wifi</string>
+    <string name="menu_trafico">Tráfico</string>
+    <string name="menu_ciudades">Ciudades Cercanas</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="que_hay_cerca">Qué hay cerca?</string>
+    <string name="ver_ciudades">Mostrar ciudades</string>
+    <string name="action_settings">Acerca de...</string>
+    <string name="menu_otros">Otros</string>
+    <string name="menu_taxi">Taxis</string>
+    <string name="menu_movilidad">Movilidad</string>
+    <string name="menu_contenedores">Contenedores</string>
+    <string name="seleccion_contenedor">Selecciona un tipo de contenedor</string>
+    <string-array name="array_contenedor">
+        <item>residuos</item>
+        <item>envases</item>
+        <item>carton</item>
+        <item>vidrio</item>
+        <item>ropa</item>
+        <item>pilas</item>
+        <item>aceite</item>
+    </string-array>
+    <string-array name="array_titContenedor">
+        <item>Residuos</item>
+        <item>Envases</item>
+        <item>Carton</item>
+        <item>Vidrio</item>
+        <item>Ropa</item>
+        <item>Pilas</item>
+        <item>Aceite</item>
+    </string-array>
+    <string name="menu_bus">Bus</string>
+    <string name="menu_metro">Metro</string>
+    <string name="bot_volver">Volver</string>
+    <string name="sinInternet">Sin conexión a internet.</string>
+    <string name="sinGPS">Sin señal GPS</string>
+    <string name="titutlo_act_inicio">Cerca de ti- API Ayunt. de Valencia.</string>
+    <string name="instruc_funcionamiento">Para el correcto funcionamiento de la app es necesario acceder a Internet y tener activado el GPS. Solo proporciona información de la zona urbana de Valencia. Si estás fuera de esta zona se mostrará la información del centro de la ciudad</string>
+    <string name="requisitos_conexion">Puedes explorar los datos de un punto de la ciudad con un long-clik en un punto del mapa. Con otro long-click puedes utilizar la posición GPS</string>
+    <string name="comenzar_txt">Selecciona una opción del menú para comenzar...</string>
+    <string name="app_desarrollada_">APP desarrollada para el curso Diploma de Especialización de Aplicaciones Android (2019). Se utiliza el API del Ayuntamiento de Valencia \'Cerca de Mi\' (http://gobiernoabierto.valencia.es/es/info-api/)</string>
+    <string name="msg_GPS_OFF">GPS desconectado. ¿Quieres conectarlo?</string>
+    <string name="msg_irGPS">Ir a configuración GPS.</string>
+    <string name="bot_cancelar">Cancelar</string>
+    <string name="msg_uso_Valencia">Fuera de Valencia. Se usará el centro de Valencia como ubicación.</string>
+    <string name="prox_salidas">Próximas salidas</string>
+    <string name="lineas">Líneas:</string>
+    <string name="bicis_disponibles">Bicicletas disponibles:</string>
+    <string name="plazas_disponibles">"Para aparcar: "</string>
+    <string name="parking_disponible">"Plazas libres: "</string>
+    <string name="parada_taxi">Parada a:</string>
+    <string name="wifi_a">Wifi a:</string>
+    <string name="contenedor_de">"Contenedor de "</string>
+    <string name="sin_datos">Sin datos para tu ubicación.</string>
+    <string name="no_preguntar_de_nuevo">(No preguntar de nuevo)</string>
+    <string name="menu_acercade">Acerca de...</string>
+</resources>
