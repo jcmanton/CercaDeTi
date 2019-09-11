@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="openWeatherID" translatable="false">e38e71f0d87f9b19cc9ec143354b350a</string>
-    <string name="aytoApiId" translatable="false">jcmanton</string>
-    <string name="aytoApiPwd" translatable="false">ag6PfpcX</string>
+<resources>    
+    <string name="aytoApiId" translatable="false">yourId</string>
+    <string name="aytoApiPwd" translatable="false">yourPwd</string>
 </resources>
